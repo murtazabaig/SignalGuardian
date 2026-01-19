@@ -28,3 +28,109 @@ private core is not installed.
 ## Quick start (public shell)
 This repo is for visibility and documentation. It does not run the bot.
 Install the private core package to run SignalGuardian.
+
+## Pricing
+
+### Starter
+$29 / month  
+$290 / year (2 months free)
+
+Includes
+- Telegram alerts for basic signals
+- Limited asset pairs and timeframes
+- Standard risk parameters
+- Daily signal summaries
+- Community-level support
+
+Best for
+- Retail traders
+- Beginners testing automated signals
+
+Free trial
+- 7-day free trial
+- No setup fee
+
+---
+
+### Pro
+$79 / month  
+$790 / year (2 months free)
+
+Includes
+- Everything in Starter
+- Advanced multi-timeframe scanning
+- Risk-adjusted position sizing
+- Custom alert rules
+- Performance reporting
+- Priority updates
+
+Best for
+- Active traders
+- Semi-professional users
+
+Free trial
+- 7-day free trial
+- No setup fee
+
+---
+
+### Elite
+$199 / month  
+$1,990 / year
+
+Includes
+- Everything in Pro
+- High-frequency signal engine
+- Custom strategies per user
+- Dedicated Telegram bot instance
+- Early access to new features
+- Priority support
+
+Best for
+- Professional traders
+- Signal resellers
+- Power users
+
+Free trial
+- No free trial
+- 1-time onboarding included
+
+---
+
+### Enterprise / Custom
+Starting at $500+ / month (custom pricing)
+
+Includes
+- Fully custom signal logic
+- Private deployment
+- Custom exchanges and assets
+- SLA-backed support
+- Strategy confidentiality
+- Integration with existing systems
+
+Best for
+- Funds
+- Trading teams
+- Businesses
+
+Free trial
+- No
+- Paid setup depending on scope
+
+## Why pricing exists
+- Prevents abuse, spam, and unqualified usage
+- Funds infrastructure, maintenance, and support
+- Keeps quality high and development focused
+
+## Attribution & usage notice
+SignalGuardian is proprietary software. Redistribution, resale, or commercial
+use without explicit permission is prohibited. Contact for licensing,
+enterprise access, or custom deployments.
+
+## Contact / Purchase
+All plans require approval and onboarding.
+https://murtazabaig.vercel.app/
+
+---
+
+Made by M. Murtaza Baig
